@@ -1,0 +1,17 @@
+---- Python TOTAL para Data Science ----
+
+---- Días pendientes del curso "Python TOTAL para Data Science & Machine Learning en 18 Días" ----
+
+	- dia-8-numpy (PENDIENTE)
+	- dia-10-seaborn (PENDIENTE)
+		- 5 Vista Múltiple para Datasets Complejos.ipynb (PENDIENTE)
+		- 6 Funciones de Nivel Inferior.ipynb (PENDIENTE)
+		- 7 Valores Preconfigurados y Personalizados.ipynb (PENDIENTE)
+		- 8 Nivel de Figura vs. Nivel de Axes.ipynb (PENDIENTE)
+		- 9 Proyecto del Día 10 - Dashboard de un Análisis Exploratorio de Datos con Seaborn - Solución.ipynb (PENDIENTE)
+
+---- Notas ----
+
+Notas
+	- Los archivos .ipynb del dia-1 al dia-5  ----> no los modifique
+	- Los archivos .ipynb del dia-6 al dia-18 ----> los modifique ----> para leer los archivos desde "1 Data"
